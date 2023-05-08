@@ -4,6 +4,6 @@
 - [x] Create App
 - [x] Add TypeScript
 - [x] Add Router
-- [ ] Add Folderstructure
+- [x] Add Folderstructure
 - [ ] Add Tailwind
 - [ ] Add Redux
