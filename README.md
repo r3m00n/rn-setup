@@ -5,5 +5,5 @@
 - [x] Add TypeScript
 - [x] Add Router
 - [x] Add Folderstructure
-- [ ] Add Tailwind
+- [x] Add Tailwind
 - [ ] Add Redux
