@@ -6,4 +6,4 @@
 - [x] Add Router
 - [x] Add Folderstructure
 - [x] Add Tailwind
-- [ ] Add Redux
+- [x] Add Redux
