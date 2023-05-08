@@ -2,7 +2,7 @@
 
 - [x] Create Readme
 - [x] Create App
-- [ ] Add TypeScript
+- [x] Add TypeScript
 - [ ] Add Folderstructure
 - [ ] Add Tailwind
 - [ ] Add Redux
